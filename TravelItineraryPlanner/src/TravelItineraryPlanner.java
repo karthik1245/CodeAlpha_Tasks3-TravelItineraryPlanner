@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TravelItineraryPlanner {
-            private String startDate;
+   private String startDate;
 			private String endDate;
 			private String transportation;
 			private String accomodation;
